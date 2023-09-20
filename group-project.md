@@ -1,3 +1,3 @@
-# Github-Collaboration-Practice
+Group Project
 
 Degree Programs & Research Interests of Members
