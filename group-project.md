@@ -1,7 +1,5 @@
 Group Project
 
 Degree Programs & Research Interests of Members
-CONFLICT
-CONFLICT
-CONFLICT
-CONFLICT 
+
+Max Wu - Degree: Master of Development Practice - Research Interests: Urbanization, development interventions
