@@ -1,0 +1,20 @@
+cd css
+cd git
+git clone https://github.com/axmwu/github-collaboration-practice.git
+cd github-collaboration-practice/
+dir
+touch group-project.md
+start group-project.md
+git add *
+git commit -m "created group project markdown file and added text 'degree programs & research interests' as the creator"
+git push
+
+git pull
+git branch max
+git switch max
+start group-project.md
+git add *
+git commit -m "created individual branch, added degree and research interest keywords"
+git push
+
+
