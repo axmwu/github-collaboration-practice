@@ -1,3 +1,24 @@
+# The code Max, initializer, used
+cd css
+cd git
+git clone https://github.com/axmwu/github-collaboration-practice.git
+cd github-collaboration-practice/
+dir
+touch group-project.md
+start group-project.md
+git add *
+git commit -m "created group project markdown file and added text 'degree programs & research interests' as the creator"
+git push
+
+git pull
+git branch max
+git switch max
+start group-project.md
+git add *
+git commit -m "created individual branch, added degree and research interest keywords"
+git push
+
+# The code namita used
 cd github-collaboration-practice
 git branch namita
 git switch Namita
@@ -11,3 +32,14 @@ git commit -m “namita’s changes”
 git push --set-upstream origin Namita
 git push
 
+#The code Sumate, collaborator, used
+cd css
+git clone https://github.com/axmwu/github-collaboration-practice.git
+cd github-collaboration-practice
+git branch sumate
+git switch sumate
+git pull
+git start "group-project.md"
+git add *
+git commit -m"I add the program and research interest"
+git push
