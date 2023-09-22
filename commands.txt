@@ -1,3 +1,4 @@
+# The code Max, initializer, used
 cd css
 cd git
 git clone https://github.com/axmwu/github-collaboration-practice.git
@@ -17,4 +18,14 @@ git add *
 git commit -m "created individual branch, added degree and research interest keywords"
 git push
 
-
+#The code Sumate, collaborator, used
+cd css
+git clone https://github.com/axmwu/github-collaboration-practice.git
+cd github-collaboration-practice
+git branch sumate
+git switch sumate
+git pull
+git start "group-project.md"
+git add *
+git commit -m"I add the program and research interest"
+git push
