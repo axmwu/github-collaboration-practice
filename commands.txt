@@ -1,0 +1,13 @@
+cd github-collaboration-practice
+git branch namita
+git switch Namita
+git pull
+nano group-project.md
+Added my text: Namita Karnik, Masters of Development Practice, research 
+interests: Public Health and Sustainability
+(exited and saved it)
+git add *
+git commit -m “namita’s changes” 
+git push --set-upstream origin Namita
+git push
+
